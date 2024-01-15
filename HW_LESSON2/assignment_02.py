@@ -1,0 +1,1 @@
+# Increase bonus based on salary _ if emp_salary>= 5000 ; increase the salary by bonus of 2000 otherwise by 4000 And print the salary after raise
